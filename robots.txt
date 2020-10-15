@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /?
+Disallow: /scripts/
+Disallow: /php/
+Host: http://mysite.com/
+Sitemap: 
